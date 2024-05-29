@@ -1,0 +1,12 @@
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Datos\bin\Debug\Datos.dll
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Datos\bin\Debug\Datos.pdb
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Datos\obj\Debug\Datos.dll
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Datos\obj\Debug\Datos.pdb
+D:\Desktop\Biblioteca-main\Datos\bin\Debug\Datos.dll
+D:\Desktop\Biblioteca-main\Datos\bin\Debug\Datos.pdb
+D:\Desktop\Biblioteca-main\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Desktop\Biblioteca-main\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Desktop\Biblioteca-main\Datos\obj\Debug\Datos.dll
+D:\Desktop\Biblioteca-main\Datos\obj\Debug\Datos.pdb
